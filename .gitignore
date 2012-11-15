@@ -1,3 +1,9 @@
+.project
+.settings
+.metadata/*
+hellopojo-*/.classpath
+hellopojo-*/target/*
+hellopojo-test/test-output
 *.class
 
 # Package Files #
